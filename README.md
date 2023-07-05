@@ -1,0 +1,2 @@
+# AzureOne
+First Azure Project.
